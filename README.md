@@ -11,4 +11,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Benim-Sayfam
